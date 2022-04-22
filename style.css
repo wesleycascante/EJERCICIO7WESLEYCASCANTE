@@ -1,0 +1,33 @@
+header{
+    font-size: 2em;
+    margin-bottom: 0,5em;
+}
+
+nav ul li{
+    color: #0984e3;
+    list-style: none;
+    display: inline-block;
+    margin: 10px;
+}
+
+nav ul li:hover{
+    color: black;
+}
+
+.container{
+    background-color: gray;
+    border: 2px solid red;
+    width: 950px;
+    color: white;
+}
+
+.container h2{
+    font-family: Verdana;
+    color: red;
+}
+
+.container a{
+    display: block;
+    margin-bottom: 20px;
+    color: #0652DD;
+}
